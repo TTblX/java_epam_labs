@@ -1,3 +1,7 @@
 
-E
-java:S1068"*Remove this unused "logger" private field.(Íˆ©ƒúÿÿÿÿ
+\
+java:S1854Q":Remove this useless assignment to local variable "future".(†þ¾‡øÿÿÿÿ8‚œ¨ó‰1
+M
+java:S1481Q"+Remove this unused "future" local variable.(†þ¾‡øÿÿÿÿ8…œ¨ó‰1
+L
+java:S1068"*Remove this unused "logger" private field.(Íˆ©ƒúÿÿÿÿ8 œ¨ó‰1
